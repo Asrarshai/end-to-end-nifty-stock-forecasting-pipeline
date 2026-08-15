@@ -13,9 +13,7 @@ The current implementation uses HDFC Bank stock data (`HDFCBANK.NS`) as the work
 The project follows a layered data-lake architecture:
 
 ```text
-Historical Stock Data
-        |
-        v
+        
 Apache Airflow
         |
         v
